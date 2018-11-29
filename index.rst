@@ -8,6 +8,7 @@ ORAD-web-2. Документация
 .. toctree::
 
    permissions
+   roles
 
 Пользователи
 ====================
