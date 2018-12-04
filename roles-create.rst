@@ -31,3 +31,12 @@ create_MODELNAME - На клиенте отображается кнопка "С
 update_MODELNAME - На клиенте отображается кнопка "Редактировать", на сервере обрабатывается POST запрос.
 
 update_FIELDNAME_MODELNAME - На клиенте поле становится доступным для редактирования, на сервере осуществляется проверка на наличие разрешения на редактирование каждого поля при сохранении или создании записи.
+
+
+Обязательные связи между правами
+--------------------------------
+
+1. see_tops, see_newsbars, see_hotnews -> see_settings
+2. see_weatherforecasts, see_weatherforecastsliners -> see_weathertypes
+3. see_promos -> see_promocategories
+
