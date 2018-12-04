@@ -9,6 +9,7 @@ ORAD-web-2. Документация
 
    permissions
    roles
+   roles-create
 
 Пользователи
 ====================
