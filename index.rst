@@ -21,10 +21,6 @@ ORAD-web-2. Документация
    promo
    photoupload
    admincontrole
-   settings
-   weathertypes
-   orbits
-   promocategories
 
 Пользователи
 ====================
