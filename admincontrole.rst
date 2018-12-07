@@ -5,8 +5,10 @@
 
 Внутри вкладки "Управление" находятся следующие вкладки:
 
-1. :ref:`Настройки приложения <settings>`
-2. :ref:`Погода <weathertypes>`
-3. :ref:`Орбиты <orbits>`
-4. :ref:`Промо категории <promocategories>`
+.. toctree::
+
+    settings
+    weathertypes
+    orbits
+    promocategories
 
