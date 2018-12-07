@@ -10,6 +10,21 @@ ORAD-web-2. Документация
    permissions
    roles
    roles-create
+   tops
+   newsbar
+   hotnews
+   currencyrates
+   weatherlive
+   weatherliveliners
+   citytimeshift
+   eventcountdown
+   promo
+   photoupload
+   admincontrole
+   settings
+   weathertypes
+   orbits
+   promocategories
 
 Пользователи
 ====================
