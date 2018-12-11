@@ -36,7 +36,8 @@ update_FIELDNAME_MODELNAME - На клиенте поле становится �
 Обязательные связи между правами
 --------------------------------
 
-1. see_tops, see_newsbars, see_hotnews -> see_settings
-2. see_weatherforecasts, see_weatherforecastsliners -> see_weathertypes
-3. see_promos -> see_promocategories
+1. Обязательно для всеx -> see_tabs
+2. see_tops, see_newsbars, see_hotnews -> see_settings
+3. see_weatherforecasts, see_weatherforecastsliners -> see_weathertypes
+4. see_promos -> see_promocategories
 
