@@ -40,4 +40,5 @@ update_FIELDNAME_MODELNAME - На клиенте поле становится �
 2. see_tops, see_newsbars, see_hotnews -> see_settings
 3. see_weatherforecasts, see_weatherforecastsliners -> see_weathertypes
 4. see_promos -> see_promocategories
+5. see_hotnews -> see_orbits
 
