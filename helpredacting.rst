@@ -29,6 +29,9 @@
 
 .. image:: /images/top_menu.png
    :width: 100 %
+   
+.. image:: /images/modal/help_modal.png
+  :width: 100 %
 
 Правила заполнения полей
 ------------------------
