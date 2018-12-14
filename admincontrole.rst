@@ -8,6 +8,7 @@
 .. toctree::
 
     settings
+    helpredacting
     weathertypes
     orbits
     promocategories
