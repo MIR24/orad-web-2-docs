@@ -21,6 +21,7 @@ ORAD-web-2. Документация
    promo
    photoupload
    admincontrole
+   mysql-view
 
 Пользователи
 ====================
